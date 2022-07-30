@@ -1,0 +1,52 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Detection of SA0 and SA1 faults in 3-Bit Even Parity Generator",
+			"Lab": "Design Of Digital Systems Lab",
+			"Discipline": "Computer Science and Engineering",
+			"Technology": "HTML, CSS, Javascript"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Dr. Biswajit R. Bhowmik",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       }
+   ],
+
+   "contributer": [
+       {
+  			"Contributer": "V.V.K. Sai Swaroop",
+        "Institute": "National Institute of Technology Karnataka, Surathkal",
+  			"InstituteAcronym": "NITK"
+       },
+
+       {
+         "Contributer": "Anil Kumar Reddy N S",
+          "Institute": "National Institute of Technology Karnataka, Surathkal",
+         "InstituteAcronym": "NITK"
+       },
+
+       {
+    			"Contributer": "Sasank Mohan Pentela",
+          "Institute": "National Institute of Technology Karnataka, Surathkal",
+    			"InstituteAcronym": "NITK"
+       },
+
+       {
+         "Contributer": "T Naga Tarun ",
+          "Institute": "National Institute of Technology Karnataka, Surathkal",
+         "InstituteAcronym": "NITK"
+       },
+
+       {
+         "Contributer": "Penumudi Naga Venkata Sri Sai Amith",
+          "Institute": "National Institute of Technology Karnataka, Surathkal",
+         "InstituteAcronym": "NITK"
+       }
+   ]
+
+}
